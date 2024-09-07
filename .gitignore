@@ -1,1 +1,3 @@
 /node_module/
+# Ignore the .env file (environment variables)
+.env
